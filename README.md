@@ -7,7 +7,7 @@ This is based on CNN and can calculate the similarity between texts.
 
 Requirements：
 
-Python 2.7
+Python 3.5.2
 
 Tensorflow 1.0
 
